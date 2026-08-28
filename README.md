@@ -1,8 +1,3 @@
 # React + TypeScript + Vite
 
-## Deploy Your Own
-
-
-```shell
-$ vercel
-```
+포폴 사이트 Old버전
